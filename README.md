@@ -8,7 +8,7 @@ It contains several branches, the master contains the basis to every SpringBoot 
 - Spring Web: make it easy to build HTTP APIs
 - [Lombok](https://projectlombok.org/): add facilitators annotation to make code faster and cleaner
 - [Checkstyles](https://checkstyle.sourceforge.io/): add code styles check to enforce code standards
-    - Using [Google Java Style](https://google.github.io/styleguide/javaguide.html)
+- Using [Google Java Style](https://google.github.io/styleguide/javaguide.html)
 - [PMD](https://pmd.github.io/): code analyser to avoid code mistakes
 - PostgreSQL and Spring JPA: build and manipulate relational databases within Java code. Stored in [postgresql branch](https://github.com/gfmota/template/tree/postgresql)
   - To use it, it is necessary to add the following environment variables:
