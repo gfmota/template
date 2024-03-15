@@ -10,3 +10,5 @@ It contains several branches, the master contains the basis to every SpringBoot 
 - [Checkstyles](https://checkstyle.sourceforge.io/): add code styles check to enforce code standards
     - Using [Google Java Style](https://google.github.io/styleguide/javaguide.html)
 - [PMD](https://pmd.github.io/): code analyser to avoid code mistakes
+
+It also contains GitHub Actions already configured to build Gradle on pull request creation.
